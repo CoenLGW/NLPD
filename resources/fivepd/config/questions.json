@@ -1,0 +1,140 @@
+[
+	{
+		"title": "Openingszinnen",
+		"questions": [
+			{
+				"question": "Goedendag",
+				"answers": ["*Zegt niks...*", "Goedendag", "Goedendag", "Hallo", "Goedendag agent", "Hallo", "Goedendag agent", "Ik heb hier echt geen tijd voor", "Wat kan ik voor je doen?", "Wat kan ik voor je doen?", "Ik beroep me om mijn zwijgrecht", "*Kijkt weg*", "Ik heb haast, kunnen we dit snel doen?"]
+			},
+			{
+				"question": "Goedemorgen",
+				"answers": ["*Zegt niks...*", "Goedemorgen", "Goedemorgen", "Goedemorgen agent", "Goedemorgen agent", "Hallo", "Goedendag agent", "Hallo", "Goedendag agent", "Ik heb hier echt geen tijd voor", "Wat kan ik voor je doen?", "Wat kan ik voor je doen?", "Ik beroep me om mijn zwijgrecht", "*Kijkt weg*", "Ik heb haast, kunnen we dit snel doen?"]
+			},
+			{
+				"question": "Goedemiddag",
+				"answers": ["*Zegt niks...*", "Goedemiddag", "Goedemiddag", "Goedemiddag agent", "Goedemiddag agent", "Hallo", "Goedendag agent", "Hallo", "Goedendag agent", "Ik heb hier echt geen tijd voor", "Wat kan ik voor je doen?", "Wat kan ik voor je doen?", "Ik beroep me om mijn zwijgrecht", "*Kijkt weg*", "Ik heb haast, kunnen we dit snel doen?"]
+			},
+			{
+				"question": "Goedenavond",
+				"answers": ["*Zegt niks...*", "Goedenavond", "Goedenavond", "Goedenavond agent", "Goedenavond agent", "Hallo", "Goedendag agent", "Hallo", "Goedendag agent", "Ik heb hier echt geen tijd voor", "Wat kan ik voor je doen?", "Wat kan ik voor je doen?", "Ik beroep me om mijn zwijgrecht", "*Kijkt weg*", "Ik heb haast, kunnen we dit snel doen?"]
+			},
+			{
+				"question": "Goedenacht",
+				"answers": ["*Zegt niks...*", "Goedenacht", "Goedenacht", "Goedenacht agent", "Goedenacht agent", "Hallo", "Goedendag agent", "Hallo", "Goedendag agent", "Ik heb hier echt geen tijd voor", "Wat kan ik voor je doen?", "Wat kan ik voor je doen?", "Ik beroep me om mijn zwijgrecht", "*Kijkt weg*", "Ik heb haast, kunnen we dit snel doen?"]
+			}
+		]
+	},
+	{
+		"title": "Standaard vragen",
+		"questions": [
+			{
+				"question": "Weet u waarom ik u gestopt heb?",
+				"answers": ["*Zegt niks...*", "Ik heb geen idee...", "Nee", "Ja...", "Laat me raden, je moet aan je boete quota komen", "Verras me maar", "*Kreunt*", "Nee, maar ik ben benieuwd...", "Oh, wat is het nu weer?...", "Ja, ik weet het, sorry"]
+			},
+			{
+				"question": "Waar gaat u naartoe?",
+				"answers": ["*Zegt niks...*", "Ik ben onderweg naar huis", "Ik ben onderweg naar werk", "Ik ga naar een vriend", "Dat hoef jij helemaal niet te weten", "Dat hoef ik niet te vertellen", "Ik ga naar de winkel, even wat boodschappen doen", "Gewoon even weg van huis", "Ik ga wat leuks doen met wat vrienden", "Niets bijzonders", "Even wat eten ophalen", "Gewoon een stukje aan het rijden", "Waarom? Mag ik hier niet zijn dan?"]
+			},
+			{
+				"question": "Waar komt u vandaan?",
+				"answers": ["*Zegt niks...*", "Ik kom van huis", "Ik kom van werk", "Ik kom van een vriend af", "Dat hoef jij helemaal niet te weten", "Dat hoef ik niet te vertellen", "Ik kom van de winkel af", "Van de supermarkt", "Had een afspraak met wat vrienden", "Had een werkafspraak", "Ik had een date", "Niets bijzonders", "Ik moest even wat geld pinnen bij de bank"]
+			}
+		]
+	},
+	{
+		"title": "Voertuig staandehouding",
+		"questions": [
+			{
+				"question": "Rij- en kentekenbewijs graag",
+				"answers": ["*Zegt niks...*", "Natuurlijk, hier zijn ze", "Ja, klein momentje", "Alsjeblieft", "Eehm, die ligt ergens in mijn tas, even wachten", "Alstublieft", "Hier, ik wil die wel graag terug...", "Ik pak ze even", "Oke meneertje, rustig aan", "Waarom? Ik heb niets misdaan", "Eehm, ik kan ze even niet vinden", "Ik ben bang dat ik ze thuis ben vergeten"]
+			},
+			{
+				"question": "Weet u waarom ik u gestopt heb?",
+				"answers": ["*Zegt niks...*", "Ik heb geen idee...", "Nee", "Ja...", "Laat me raden, je moet aan je boete quota komen", "Verras me maar", "*Kreunt*", "Nee, maar ik ben benieuwd...", "Oh, wat is het nu weer?...", "Ja, ik weet het, sorry"]
+			},
+			{
+				"question": "Waar gaat u naartoe?",
+				"answers": ["*Zegt niks...*", "Ik ben onderweg naar huis", "Ik ben onderweg naar werk", "Ik ga naar een vriend", "Dat hoef jij helemaal niet te weten", "Dat hoef ik niet te vertellen", "Ik ga naar de winkel, even wat boodschappen doen", "Gewoon even weg van huis", "Ik ga wat leuks doen met wat vrienden", "Niets bijzonders", "Even wat eten ophalen", "Gewoon een stukje aan het rijden", "Waarom? Mag ik hier niet zijn dan?"]
+			},
+			{
+				"question": "Waar komt u vandaan?",
+				"answers": ["*Zegt niks...*", "Ik kom van huis", "Ik kom van werk", "Ik kom van een vriend af", "Dat hoef jij helemaal niet te weten", "Dat hoef ik niet te vertellen", "Ik kom van de winkel af", "Van de supermarkt", "Had een afspraak met wat vrienden", "Had een werkafspraak", "Ik had een date", "Niets bijzonders", "Ik moest even wat geld pinnen bij de bank"]
+			}
+		]
+	},
+	{
+		"title": "Voertuig staandehouding (Alcohol en drugs)",
+		"questions": [
+			{
+				"question": "Heeft u afgelopen uren alcohol genuttigd?",
+				"answers": ["*Zegt niks...*", "Nee", "Ja...", "Tuurlijk niet", "Nee, duhh...", "Nee dat heb ik niet", "Nee, maar hopelijk vanavond wel", "Nog niet...", "Daar geef ik geen antwoord op", "Ik beroep mij op mijn zwijgrecht", "Nee, ik ben een verantwoordelijke bestuurder", "Ik drink geen alcohol", "Misschien...Misschien niet...", "Ja, maar dat was maar één glaasje...", "Mogelijk", "Ja, één biertje", "Nee, ik ben BOB"]
+			},
+			{
+				"question": "Ik ruik alcohol in uw adem",
+				"answers": ["*Zegt niks...*", "Oke?", "Tja", "Ik heb niet gedronken", "Ik beroep mij op mijn zwijgrecht", "Onmogelijk", "Oke, je hebt me door...", "Ik zeg niks meer", "Geloof me, ik heb echt niets gedronken!", "Sorry agent...", "Ik dacht dat dat 0.0 was...", "Ik voel me anders gewoon heel normaal hoor"]
+			},
+			{
+				"question": "U had moeite met recht rijden, hoe komt dat?",
+				"answers": ["*Zegt niks...*", "Geen idee", "Ik werd even afgeleid", "Sorry, ik zat op mijn telefoon...", "Ja sorry, deze nieuwe auto is soms even wennen", "Sory, ik heb weinig geslapen vannacht", "Ja sorry, de weg hier is erg slecht", "Ik ben gewoon heel moe, dat is alles", "Oke meneertje, rustig aan met die verdenkingen", "Ik weet echt wel hoe ik moet autorijden hoor", "Dat is gewoon mijn rij-stijl", "Had ik maar een Tesla..."]
+			},
+			{
+				"question": "Ik ruik een vreemde geur, wat is dat?",
+				"answers": ["*Zegt niks...*", "Ik weet niet waar je het over hebt", "Bijzonder...", "Oke, dus?", "Dat is de pizza achterin nog van vorige week", "Ik beroep mij op mijn zwijgrecht", "*Kijkt weg*", "Interessant"]
+			},
+			{
+				"question": "Heeft u vandaag drugs gebruikt?",
+				"answers": ["*Zegt niks...*", "Nee", "Ja...", "Tuurlijk niet", "Nee, duhh...", "Nee dat heb ik niet", "Nee, maar hopelijk vanavond wel", "Nog niet...", "Daar geef ik geen antwoord op", "Ik beroep mij op mijn zwijgrecht", "Nee, ik ben een verantwoordelijke bestuurder", "Ik doe geen drugs", "Misschien...Misschien niet...", "Ja, maar dat was maar één jointje...", "Mogelijk", "Ja, maar dat mag toch?", "Nee, ik ben BOB"]
+			},
+			{
+				"question": "Heeft u vandaag verdovende middelen gebruikt?",
+				"answers": ["*Zegt niks...*", "Nee", "Ja...", "Tuurlijk niet", "Nee, duhh...", "Nee dat heb ik niet", "Nee, maar hopelijk vanavond wel", "Nog niet...", "Daar geef ik geen antwoord op", "Ik beroep mij op mijn zwijgrecht", "Nee, ik ben een verantwoordelijke bestuurder", "Ik doe geen drugs", "Misschien...Misschien niet...", "Ja, maar dat was maar één jointje...", "Mogelijk", "Ja, maar dat mag toch?", "Nee, ik ben BOB"]
+			}
+		]
+	},
+	{
+		"title": "Documentatie",
+		"questions": [
+			{
+				"question": "Weet u dat uw rijbewijs verlopen is?",
+				"answers": ["*Zegt niks...*", "Nee?", "Ja...", "Nee, ik heb hem vorige week verlengd?", "Dat kan niet, hij is net nieuw?", "Nee, serieus?", "Nee, wist ik echt niet", "Ja sorry, ben hem vergeten te verlengen", "Daar geef ik geen antwoord op", "Ik beroep mij op mijn zwijgrecht", "Dat moet een fout in je systeem zijn"]
+			},
+			{
+				"question": "Weet u dat uw rijbewijs ingenomen is?",
+				"answers": ["*Zegt niks...*", "Nee?", "Ja...", "Nee, ik heb hem vorige week terug gekregen?", "Dat kan echt niet?", "Nee, serieus?", "Nee, wist ik echt niet", "Ja sorry, maar had de auto echt even nodig", "Daar geef ik geen antwoord op", "Ik beroep mij op mijn zwijgrecht", "Dat moet een fout in je systeem zijn"]
+			},
+			{
+				"question": "Uw APK is verlopen, klopt dat?",
+				"answers": ["*Zegt niks...*", "Nee?", "Ja...", "Nee, ik heb hem vorige week bij de garage gekeurd?", "Dat kan echt niet?", "Nee, serieus?", "Nee, wist ik echt niet", "Ja sorry, maar had de auto nu echt even nodig", "Daar geef ik geen antwoord op", "Ik beroep mij op mijn zwijgrecht", "Dat moet een fout in je systeem zijn", "Nee huh, ik heb hem laatst nog gekeurd?"]
+			},
+			{
+				"question": "Waarom is uw auto niet verzekerd?",
+				"answers": ["*Zegt niks...*", "Geen idee", "Vreemd, dat heb ik laatst geregeld", "Moet dat dan", "Ja sorry, maar had de auto nu echt even nodig", "Daar geef ik geen antwoord op", "Ik beroep mij op mijn zwijgrecht", "Dat moet een fout in je systeem zijn", "Nee huh, ik heb hem laatst nog verzekerd?"]
+			}
+		]
+	},
+	{
+		"title": "Afsluiting",
+		"questions": [
+			{
+				"question": "Alles is helemaal in orde, fijne dag nog.",
+				"answers": ["Bedankt, fijne dag nog", "Dankjewel", "Nou bedank hé", "Dat was een tijdsverspilling", "Helemaal goed, bedankt", "*Zegt niks...*", "Dagdag", "Joe joe", "Ik beroep mij op mijn zwijgrecht", "Dat moet een fout in je systeem zijn"]
+			},
+			{
+				"question": "U krijgt een bekeuring voor ___",
+				"answers": ["*Zegt niks...*", "Oke", "Nou, bedankt...", "Dat begrijp ik, het was mijn fout", "Helemaal prima", "Wat een tijdverspilling zeg...", "En wat als ik niet betaal?", "Leuk voor je", "Daar gaat mijn geld..."]
+			},
+			{
+				"question": "Ik ga u een waarschuwing geven voor ___",
+				"answers": ["*Zegt niks...*", "Oke", "Nou, bedankt...", "Dat begrijp ik, het was mijn fout", "Helemaal prima", "Wat een tijdverspilling zeg...", "Leuk voor je"]
+			},
+			{
+				"question": "Fijne dag nog!",
+				"answers": ["*Zegt niks...*", "Fijne dag!", "Bedankt", "Doei"]
+			},
+			{
+				"question": "Hier zijn uw spullen terug",
+				"answers": ["Bedankt"]
+			}
+		]
+	}
+]

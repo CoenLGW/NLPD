@@ -1,0 +1,215 @@
+{
+    "name":"Nederlands",
+    "CalloutMenu":{
+		"title":"Meldingen Menu",
+		"description":"Kies een optie",
+        "backup_menu":{
+            "title":"Assistentie Menu",
+			"description":"Vraag om assistentie",
+			"buttons":{
+				"code1":{
+					"title":"Prio 3",
+					"description":"Vraag om niet-urgente assistentie"
+				},
+				"code2":{
+					"title":"Prio 2",
+					"description":"Vraag om prio 2 assistentie"
+				},
+				"code3":{
+					"title":"Prio 1",
+					"description":"Vraag om spoedassistentie"
+				},
+				"code99":{
+					"title":"Prio 99",
+					"description":"Gebruik de noodknop"
+				},
+				"cancel_backup":{
+					"title":"Annuleer assistentie",
+					"description":"Annuleer je assistentie verzoek"
+				}
+			}
+        },
+        "add_nearby":{
+            "title":"Voeg nabije speler toe",
+            "description":"Voeg de dichtstbijzijnde speler toe aan je melding (moet in dezelfde afdeling zitten)"
+        },
+        "disable_callouts":{
+            "title":"Schakel meldingen uit",
+            "description":"Ontvang tijdelijk geen meldingen meer"
+        },
+        "debug_menu":{
+            "title":"~y~Debug Menu",
+            "description":"Debug Menu",
+            "submenu":{
+                "force_callouts":{
+                    "title":"Forceer meldingen",
+                    "description":"Forceer een melding"
+                },
+                "toggle_callouts":{
+                    "title":"Meldingen in/uitschakelen",
+                    "description":"Schakel een melding in/uit"
+                }
+            }
+		},
+		"code4":{
+			"title":"[Callout] ~g~Melding klaar",
+            "description":"Sluit de melding af"
+		},
+		"cancel_assistance":{
+			"title":"~r~Annuleer assistentie",
+            "description":"Annuleer het assistentie verzoek"
+		}
+    },
+    "MainMenu": {
+		"title": "Hoofdmenu",
+		"subtitle": "Kies een submenu"
+	},
+	"DutyMenu": {
+		"title": "Dienst Menu",
+		"subtitle": "Kies een optie",
+		"duty": "In dienst",
+		"engine": "Houd de motor aan",
+		"cc": {
+			"title": "Schakel Cruise Control in/uit",
+			"description": "Door deze optie in te schakelen, kan je de Cruise Control gebruiken."
+		},
+		"vehicleSpawn": "Spawn voertuig",
+		"loadout": "Krijg je wapenuitrusting",
+		"refill": "Vul levens en munitie bij",
+		"tp": "Teleporteer naar bureau",
+		"OptionsMenu": {
+			"title": "Opties",
+			"subtitle": "Kies een optie",
+			"lang": "Kies taal",
+			"blips": "Zet icoons aan/uit",
+			"patrolCarBlip": "Zet icoon patrouillewagen aan/uit",
+			"menupos": {
+				"title": "Verander menu positie",
+				"description": "Geselecteerd: rechts~n~Ongeselecteerd: links~n~~n~Dit werkt niet op de verhoudingen 17:9 en 21:9!"
+			},
+			"showNotifications": {
+				"title": "Schakel meldingen in/uit",
+				"description": "Sommige meldingen kunnen de game performance beïnvloeden, schakel dit uit als je problemen ondervindt"
+			},
+			"observation": "Schakel persoon observatie in/uit"
+		}
+	},
+	"SceneMenu": {
+		"title": "Scene Menu",
+		"subtitle": "Kies een submenu",
+		"ObjectMenu": {
+			"title": "Objecten plaatsen",
+			"subtitle": "Kies een optie",
+			"spawn": "Plaats object",
+			"delete": "Verwijder alle objecten die je geplaatst hebt",
+			"deletePrevious": "Verwijder het vorige object dat je geplaatst hebt"
+		},
+		"SpeedZoneMenu": {
+			"title": "Snelheidszone plaatsen",
+			"subtitle": "Kies een optie",
+			"speed": "Selecteer snelheid",
+			"radius": "Verander grootte",
+			"place": "Plaats snelheidszone",
+			"remove": "Verwijder snelheidszone",
+			"go": "Laat voertuigen gaan",
+			"removePlayer": "Verwijder spelers snelheidszone"
+		}
+	},
+	"DispatchMenu": {
+		"title": "Portofoon",
+		"subtitle": "Kies een optie",
+		"license": "Controleer rijbewijs/vergunning",
+		"plate": "Controleer kenteken",
+		"transport": {
+			"request": "Verzoek gedetineerde transport",
+			"cancel": "Annuleer gedetineerde transport"
+		},
+		"ems": {
+			"request": "Verzoek ambulance",
+			"cancel": "Annuleer ambulance"
+		},
+		"fd": {
+			"request": "Verzoek brandweer",
+			"cancel": "Annuleer brandweer"
+		},
+		"coroner": {
+			"request": "Verzoek lijkschouwer",
+			"cancel": "Annuleer lijkschouwer"
+		},
+		"towTruck": {
+			"request": "Verzoek berging",
+			"cancel": "Annuleer berging"
+		},
+		"animalControl": {
+			"request": "Verzoek dierenambulance",
+			"cancel": "Annuleer dierenambulance"
+		},
+		"mechanic": {
+			"request": "Verzoek monteur",
+			"cancel": "Annuleer monteur"
+		},
+		"airAmbulance": {
+			"request": "Verzoek Mobiel Medisch Team",
+			"cancel": "Annuleer Mobiel Medisch Team"
+		},
+		"taxi": {
+			"request": "Verzoek taxi",
+			"cancel": "Annuleer taxi"
+		}
+	},
+	"PedVehicleMenu": {
+		"title": "Persoon plaatsen",
+		"subtitle": "Kies een optie",
+		"left": "Links achter plaatsen/uit bevelen",
+		"right": "Rechts achter plaatsen/uit bevelen"
+	},
+	"TrafficStopMenu": {
+		"title": "Voertuig staandehouding",
+		"subtitle": "Kies een optie",
+		"go": "Laat persoon gaan",
+		"breathalyzer": "Blaastest afnemen",
+		"drugswab": "Drugstest afnemen",
+		"interactWith": "Start interactie met",
+		"orderOut": {
+			"title": "Beveel uit het voertuig",
+			"occupants": ["Iedereen", "Bestuurder", "Bijrijder", "Linksachter", "Rechtsachter"]
+		}
+	},
+		"TrafficStopPositionMenu": {
+		"title": "Staandehouding positie",
+		"subtitle": "Kies een optie",
+		"follow": "Laat voertuig volgen",
+		"mimic": "Mimic voertuig",
+		"marker": "Stuur voertuig naar marker",
+		"cancel": "Annuleer positionering"
+	},
+	"PedCheckMenu": {
+		"title": "Persoon Menu",
+		"subtitle": "Kies een optie",
+		"license": "Vraag om rijbewijs/vergunning",
+		"question": "Stel vragen",
+		"licenses": [
+			"Rijbewijs",
+			"Jaagvergunning",
+			"Visvergunning",
+			"Wapenvergunning"
+		],
+		"breathalyzer": "Blaastest afnemen",
+		"drugswab": "Drugstest afnemen",
+		"move": {
+			"title": "Verplaats persoon",
+			"types": ["Volg me", "Houd persoon vast"]
+		},
+		"search": {
+			"title": "Doorzoeken",
+			"types": ["Persoon", "Voertuig"]
+		},
+		"cancelMove": {
+			"title": "Annuleer verplaatsen",
+			"description": "Annuleer volgen of vasthouden"
+		},
+		"cuff": "Arresteer persoon",
+		"uncuff": "Laat persoon vrij",
+		"dismiss": "Laat persoon gaan"
+	}
+}

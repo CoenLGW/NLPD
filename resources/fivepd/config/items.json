@@ -1,0 +1,1844 @@
+[
+  {
+    "name": "Treinkaartje",
+    "isIllegal": false,
+    "multiplier": 2,
+    "itemLocation": 2
+  },
+  {
+    "name": "Verlopen treinkaartje",
+    "isIllegal": false,
+    "multiplier": 2,
+    "itemLocation": 2
+  },
+  {
+    "name": "Handgel",
+    "isIllegal": false,
+    "multiplier": 2,
+    "itemLocation": 2
+  },
+  {
+    "name": "IFruit telefoon",
+    "isIllegal": false,
+    "multiplier": 2,
+    "itemLocation": 2
+  },
+  {
+    "name": "Pen",
+    "isIllegal": false,
+    "multiplier": 2,
+    "itemLocation": 2
+  },
+  {
+    "name": "portemonnee",
+    "isIllegal": false,
+    "multiplier": 4,
+    "itemLocation": 2
+  },
+  {
+    "name": "Powerbank",
+    "isIllegal": false,
+    "multiplier": 2,
+    "itemLocation": 2
+  },
+  {
+    "name": "Headset",
+    "isIllegal": false,
+    "multiplier": 2,
+    "itemLocation": 2
+  },
+  {
+    "name": "Bril",
+    "isIllegal": false,
+    "multiplier": 2,
+    "itemLocation": 2
+  },
+  {
+    "name": "Zonnebril",
+    "isIllegal": false,
+    "multiplier": 2,
+    "itemLocation": 2
+  },
+  {
+    "name": "Notitieboekje",
+    "isIllegal": false,
+    "multiplier": 2,
+    "itemLocation": 2
+  },
+  {
+    "name": "Boek",
+    "isIllegal": false,
+    "multiplier": 2,
+    "itemLocation": 2
+  },
+  {
+    "name": "Gesloten flesje bier",
+    "isIllegal": false,
+    "multiplier": 2,
+    "itemLocation": 2
+  },
+  {
+    "name": "Open flesje bier",
+    "isIllegal": false,
+    "multiplier": 2,
+    "itemLocation": 2
+  },
+  {
+    "name": "Leeg bierflesje",
+    "isIllegal": false,
+    "multiplier": 2,
+    "itemLocation": 2
+  },
+  {
+    "name": "Flesje water",
+    "isIllegal": false,
+    "multiplier": 2,
+    "itemLocation": 2
+  },
+  {
+    "name": "Autopapieren",
+    "isIllegal": false,
+    "multiplier": 4,
+    "itemLocation": 2
+  },
+  {
+    "name": "ID",
+    "isIllegal": false,
+    "multiplier": 4,
+    "itemLocation": 2
+  },
+  {
+    "name": "Paspoort",
+    "isIllegal": false,
+    "multiplier": 4,
+    "itemLocation": 2
+  },
+  {
+    "name": "Verzekeringskaart",
+    "isIllegal": false,
+    "multiplier": 4,
+    "itemLocation": 2
+  },
+  {
+    "name": "Kapotte telefoon",
+    "isIllegal": false,
+    "multiplier": 2,
+    "itemLocation": 2
+  },
+  {
+    "name": "Kaart",
+    "isIllegal": false,
+    "multiplier": 2,
+    "itemLocation": 2
+  },
+  {
+    "name": "Postzegels",
+    "isIllegal": false,
+    "multiplier": 2,
+    "itemLocation": 2
+  },
+  {
+    "name": "Auto sleutels",
+    "isIllegal": false,
+    "multiplier": 4,
+    "itemLocation": 2
+  },
+  {
+    "name": "Sleutels",
+    "isIllegal": false,
+    "multiplier": 4,
+    "itemLocation": 2
+  },
+  {
+    "name": "USB stick",
+    "isIllegal": false,
+    "multiplier": 2,
+    "itemLocation": 2
+  },
+  {
+    "name": "Doosje lucifers",
+    "isIllegal": false,
+    "multiplier": 2,
+    "itemLocation": 2
+  },
+  {
+    "name": "Banaan",
+    "isIllegal": false,
+    "multiplier": 2,
+    "itemLocation": 2
+  },
+  {
+    "name": "Appel",
+    "isIllegal": false,
+    "multiplier": 2,
+    "itemLocation": 2
+  },
+  {
+    "name": "Sinaasappel",
+    "isIllegal": false,
+    "multiplier": 2,
+    "itemLocation": 2
+  },
+  {
+    "name": "Peer",
+    "isIllegal": false,
+    "multiplier": 2,
+    "itemLocation": 2
+  },
+  {
+    "name": "Cigaar",
+    "isIllegal": false,
+    "multiplier": 2,
+    "itemLocation": 2
+  },
+  {
+    "name": "Cigaretten",
+    "isIllegal": false,
+    "multiplier": 2,
+    "itemLocation": 2
+  },
+  {
+    "name": "Stressbal",
+    "isIllegal": false,
+    "multiplier": 2,
+    "itemLocation": 2
+  },
+  {
+    "name": "Oud parkeerkaartje",
+    "isIllegal": false,
+    "multiplier": 2,
+    "itemLocation": 2
+  },
+  {
+    "name": "Parkeerkaartje",
+    "isIllegal": false,
+    "multiplier": 2,
+    "itemLocation": 2
+  },
+  {
+    "name": "Handschoenen",
+    "isIllegal": false,
+    "multiplier": 2,
+    "itemLocation": 2
+  },
+  {
+    "name": "Telefoon",
+    "isIllegal": false,
+    "multiplier": 4,
+    "itemLocation": 2
+  },
+  {
+    "name": "Papier",
+    "isIllegal": false,
+    "multiplier": 2,
+    "itemLocation": 2
+  },
+  {
+    "name": "Deodorant",
+    "isIllegal": false,
+    "multiplier": 2,
+    "itemLocation": 2
+  },
+  {
+    "name": "Bier",
+    "isIllegal": false,
+    "multiplier": 2,
+    "itemLocation": 2
+  },
+  {
+    "name": "Fles wodka",
+    "isIllegal": false,
+    "multiplier": 2,
+    "itemLocation": 2
+  },
+  {
+    "name": "Tandenborstel",
+    "isIllegal": false,
+    "multiplier": 2,
+    "itemLocation": 2
+  },
+  {
+    "name": "Zaklamp",
+    "isIllegal": false,
+    "multiplier": 2,
+    "itemLocation": 2
+  },
+  {
+    "name": "Horloge",
+    "isIllegal": false,
+    "multiplier": 2,
+    "itemLocation": 2
+  },
+  {
+    "name": "Tissues",
+    "isIllegal": false,
+    "multiplier": 2,
+    "itemLocation": 2
+  },
+  {
+    "name": "Oplader",
+    "isIllegal": false,
+    "multiplier": 2,
+    "itemLocation": 2
+  },
+  {
+    "name": "Oortjes",
+    "isIllegal": false,
+    "multiplier": 2,
+    "itemLocation": 2
+  },
+  {
+    "name": "Verrekijker",
+    "isIllegal": false,
+    "multiplier": 2,
+    "itemLocation": 2
+  },
+  {
+    "name": "Muggenspray",
+    "isIllegal": false,
+    "multiplier": 2,
+    "itemLocation": 2
+  },
+  {
+    "name": "Gezichtsmasker",
+    "isIllegal": false,
+    "multiplier": 2,
+    "itemLocation": 2
+  },
+  {
+    "name": "Condooms",
+    "isIllegal": false,
+    "multiplier": 2,
+    "itemLocation": 2
+  },
+  {
+    "name": "Vliegtuigticker",
+    "isIllegal": false,
+    "multiplier": 2,
+    "itemLocation": 2
+  },
+  {
+    "name": "€100 briefje",
+    "isIllegal": false,
+    "multiplier": 2,
+    "itemLocation": 2
+  },
+  {
+    "name": "€50 briefje",
+    "isIllegal": false,
+    "multiplier": 2,
+    "itemLocation": 2
+  },
+  {
+    "name": "€20 briefje",
+    "isIllegal": false,
+    "multiplier": 2,
+    "itemLocation": 2
+  },
+  {
+    "name": "€10 briefje",
+    "isIllegal": false,
+    "multiplier": 2,
+    "itemLocation": 2
+  },
+  {
+    "name": "€5 briefje",
+    "isIllegal": false,
+    "multiplier": 2,
+    "itemLocation": 2
+  },
+  {
+    "name": "Maze Bank kaart",
+    "isIllegal": false,
+    "multiplier": 2,
+    "itemLocation": 2
+  },
+  {
+    "name": "Creditcard",
+    "isIllegal": false,
+    "multiplier": 2,
+    "itemLocation": 2
+  },
+  {
+    "name": "Pakje kaarten",
+    "isIllegal": false,
+    "multiplier": 2,
+    "itemLocation": 2
+  },
+  {
+    "name": "Meerdere bonnetjes",
+    "isIllegal": false,
+    "multiplier": 2,
+    "itemLocation": 2
+  },
+  {
+    "name": "Klein flesje mondwater",
+    "isIllegal": false,
+    "multiplier": 2,
+    "itemLocation": 2
+  },
+  {
+    "name": "Servetten",
+    "isIllegal": false,
+    "multiplier": 2,
+    "itemLocation": 2
+  },
+  {
+    "name": "Tape",
+    "isIllegal": false,
+    "multiplier": 2,
+    "itemLocation": 2
+  },
+  {
+    "name": "Wat kleingeld",
+    "isIllegal": false,
+    "multiplier": 2,
+    "itemLocation": 2
+  },
+  {
+    "name": "Envelop",
+    "isIllegal": false,
+    "multiplier": 2,
+    "itemLocation": 2
+  },
+  {
+    "name": "Paspoort",
+    "isIllegal": false,
+    "multiplier": 4,
+    "itemLocation": 2
+  },
+  {
+    "name": "LSPD sollicitatiebrief",
+    "isIllegal": false,
+    "multiplier": 2,
+    "itemLocation": 2
+  },
+  {
+    "name": "Boete",
+    "isIllegal": false,
+    "multiplier": 2,
+    "itemLocation": 2
+  },
+  {
+    "name": "Aansteker",
+    "isIllegal": false,
+    "multiplier": 2,
+    "itemLocation": 2
+  },
+  {
+    "name": "Briefje met wat telefoonnummers",
+    "isIllegal": false,
+    "multiplier": 2,
+    "itemLocation": 2
+  },
+  {
+    "name": "Trouwring",
+    "isIllegal": false,
+    "multiplier": 2,
+    "itemLocation": 2
+  },
+  {
+    "name": "Telefoonhoesje",
+    "isIllegal": false,
+    "multiplier": 2,
+    "itemLocation": 2
+  },
+  {
+    "name": "Foto van een hond",
+    "isIllegal": false,
+    "multiplier": 2,
+    "itemLocation": 2
+  },
+  {
+    "name": "Foto van een kat",
+    "isIllegal": false,
+    "multiplier": 2,
+    "itemLocation": 2
+  },
+  {
+    "name": "Bloedsuiker tester",
+    "isIllegal": false,
+    "multiplier": 2,
+    "itemLocation": 2
+  },
+  {
+    "name": "Geldige visvergunning",
+    "isIllegal": false,
+    "multiplier": 2,
+    "itemLocation": 2
+  },
+  {
+    "name": "Geldige jaagvergunning",
+    "isIllegal": false,
+    "multiplier": 2,
+    "itemLocation": 2
+  },
+  {
+    "name": "Heel veel kleingeld",
+    "isIllegal": false,
+    "multiplier": 2,
+    "itemLocation": 2
+  },
+  {
+    "name": "Baby foto's",
+    "isIllegal": false,
+    "multiplier": 2,
+    "itemLocation": 2
+  },
+  {
+    "name": "Pakje kauwgom",
+    "isIllegal": false,
+    "multiplier": 2,
+    "itemLocation": 2
+  },
+  {
+    "name": "Smartphone",
+    "isIllegal": false,
+    "multiplier": 4,
+    "itemLocation": 2
+  },
+  {
+    "name": "E-Cigaret",
+    "isIllegal": false,
+    "multiplier": 2,
+    "itemLocation": 2
+  },
+  {
+    "name": "Landkaart",
+    "isIllegal": false,
+    "multiplier": 2,
+    "itemLocation": 2
+  },
+  {
+    "name": "Camera",
+    "isIllegal": false,
+    "multiplier": 2,
+    "itemLocation": 2
+  },
+  {
+    "name": "Kompas",
+    "isIllegal": false,
+    "multiplier": 2,
+    "itemLocation": 2
+  },
+  {
+    "name": "Keelsnoepjes",
+    "isIllegal": false,
+    "multiplier": 2,
+    "itemLocation": 2
+  },
+  {
+    "name": "Parfum",
+    "isIllegal": false,
+    "multiplier": 2,
+    "itemLocation": 2
+  },
+  {
+    "name": "Vaseline",
+    "isIllegal": false,
+    "multiplier": 2,
+    "itemLocation": 2
+  },
+  {
+    "name": "Snickers reep",
+    "isIllegal": false,
+    "multiplier": 2,
+    "itemLocation": 2
+  },
+  {
+    "name": "Meerdere foto's",
+    "isIllegal": false,
+    "multiplier": 2,
+    "itemLocation": 2
+  },
+  {
+    "name": "Lolly",
+    "isIllegal": false,
+    "multiplier": 2,
+    "itemLocation": 2
+  },
+  {
+    "name": "Vulpen",
+    "isIllegal": false,
+    "multiplier": 2,
+    "itemLocation": 2
+  },
+  {
+    "name": "Dagvaarding",
+    "isIllegal": false,
+    "multiplier": 2,
+    "itemLocation": 2
+  },
+  {
+    "name": "OV chipkaart",
+    "isIllegal": false,
+    "multiplier": 2,
+    "itemLocation": 2
+  },
+  {
+    "name": "LS Transit Treinkaartje",
+    "isIllegal": false,
+    "multiplier": 2,
+    "itemLocation": 2
+  },
+  {
+    "name": "Kaart van Los Santos",
+    "isIllegal": false,
+    "multiplier": 2,
+    "itemLocation": 2
+  },
+  {
+    "name": "Blikje Ecola",
+    "isIllegal": false,
+    "multiplier": 2,
+    "itemLocation": 2
+  },
+  {
+    "name": "Blikje Sprunk",
+    "isIllegal": false,
+    "multiplier": 2,
+    "itemLocation": 2
+  },
+  {
+    "name": "Boodschappenlijst",
+    "isIllegal": false,
+    "multiplier": 2,
+    "itemLocation": 2
+  },
+  {
+    "name": "Vloeipapier",
+    "isIllegal": false,
+    "multiplier": 2,
+    "itemLocation": 2
+  },
+  {
+    "name": "Concert Flyer",
+    "isIllegal": false,
+    "multiplier": 2,
+    "itemLocation": 2
+  },
+  {
+    "name": "Stripclub Flyer",
+    "isIllegal": false,
+    "multiplier": 2,
+    "itemLocation": 2
+  },
+  {
+    "name": "Nagelschaar",
+    "isIllegal": false,
+    "multiplier": 2,
+    "itemLocation": 2
+  },
+  {
+    "name": "Gouden armband",
+    "isIllegal": false,
+    "multiplier": 2,
+    "itemLocation": 2
+  },
+  {
+    "name": "Zilveren armband",
+    "isIllegal": false,
+    "multiplier": 2,
+    "itemLocation": 2
+  },
+  {
+    "name": "Flesje Redwood",
+    "isIllegal": false,
+    "multiplier": 2,
+    "itemLocation": 2
+  },
+  {
+    "name": "Familie foto",
+    "isIllegal": false,
+    "multiplier": 2,
+    "itemLocation": 2
+  },
+  {
+    "name": "Golfclub Vip Kaart",
+    "isIllegal": false,
+    "multiplier": 2,
+    "itemLocation": 2
+  },
+  {
+    "name": "LSIA vliegticket naar North Yankton",
+    "isIllegal": false,
+    "multiplier": 2,
+    "itemLocation": 2
+  },
+  {
+    "name": "LSIA vliegticket naar Liberty City",
+    "isIllegal": false,
+    "multiplier": 2,
+    "itemLocation": 2
+  },
+  {
+    "name": "LSIA vliegticket naar Vice City",
+    "isIllegal": false,
+    "multiplier": 2,
+    "itemLocation": 2
+  },
+  {
+    "name": "Flesje oogdruppels",
+    "isIllegal": false,
+    "multiplier": 2,
+    "itemLocation": 2
+  },
+  {
+    "name": "Casette Tape",
+    "isIllegal": false,
+    "multiplier": 2,
+    "itemLocation": 2
+  },
+  {
+    "name": "Auto handleiding",
+    "isIllegal": false,
+    "multiplier": 2,
+    "itemLocation": 2
+  },
+  {
+    "name": "Duct Tape",
+    "isIllegal": false,
+    "multiplier": 2,
+    "itemLocation": 2
+  },
+  {
+    "name": "Cd's",
+    "isIllegal": false,
+    "multiplier": 2,
+    "itemLocation": 2
+  },
+  {
+    "name": "Lotion",
+    "isIllegal": false,
+    "multiplier": 2,
+    "itemLocation": 2
+  },
+  {
+    "name": "Magazines",
+    "isIllegal": false,
+    "multiplier": 2,
+    "itemLocation": 2
+  },
+  {
+    "name": "Schroeven",
+    "isIllegal": false,
+    "multiplier": 2,
+    "itemLocation": 2
+  },
+  {
+    "name": "Plastic zakjes",
+    "isIllegal": false,
+    "multiplier": 2,
+    "itemLocation": 2
+  },
+  {
+    "name": "Ski bril",
+    "isIllegal": false,
+    "multiplier": 2,
+    "itemLocation": 2
+  },
+  {
+    "name": "Sokken",
+    "isIllegal": false,
+    "multiplier": 2,
+    "itemLocation": 2
+  },
+  {
+    "name": "Ondergoed",
+    "isIllegal": false,
+    "multiplier": 2,
+    "itemLocation": 2
+  },
+  {
+    "name": "Panties",
+    "isIllegal": false,
+    "multiplier": 2,
+    "itemLocation": 2
+  },
+  {
+    "name": "Mini EHBO kit",
+    "isIllegal": false,
+    "multiplier": 2,
+    "itemLocation": 2
+  },
+  {
+    "name": "Gps tracker",
+    "isIllegal": false,
+    "multiplier": 2,
+    "itemLocation": 2
+  },
+  {
+    "name": "Hockey Puck",
+    "isIllegal": false,
+    "multiplier": 2,
+    "itemLocation": 2
+  },
+  {
+    "name": "Mok",
+    "isIllegal": false,
+    "multiplier": 2,
+    "itemLocation": 2
+  },
+  {
+    "name": "Walkie-Talkie",
+    "isIllegal": false,
+    "multiplier": 2,
+    "itemLocation": 2
+  },
+  {
+    "name": "Flesje Water",
+    "isIllegal": false,
+    "multiplier": 2,
+    "itemLocation": 2
+  },
+  {
+    "name": "Fluitje",
+    "isIllegal": false,
+    "multiplier": 2,
+    "itemLocation": 2
+  },
+  {
+    "name": "Zak snoep",
+    "isIllegal": false,
+    "multiplier": 2,
+    "itemLocation": 2
+  },
+  {
+    "name": "Strip Ibuprofen",
+    "isIllegal": false,
+    "multiplier": 2,
+    "itemLocation": 2
+  },
+  {
+    "name": "Chocolade reep",
+    "isIllegal": false,
+    "multiplier": 2,
+    "itemLocation": 2
+  },
+  {
+    "name": "Ls University ID",
+    "isIllegal": false,
+    "multiplier": 2,
+    "itemLocation": 2
+  },
+  {
+    "name": "Asthma inhalator",
+    "isIllegal": false,
+    "multiplier": 2,
+    "itemLocation": 2
+  },
+  {
+    "name": "Brieven met postzegel",
+    "isIllegal": false,
+    "multiplier": 2,
+    "itemLocation": 2
+  },
+  {
+    "name": "Potlood",
+    "isIllegal": false,
+    "multiplier": 2,
+    "itemLocation": 2
+  },
+  {
+    "name": "Tankstation bonnetje",
+    "isIllegal": false,
+    "multiplier": 2,
+    "itemLocation": 2
+  },
+  {
+    "name": "Bonnetje",
+    "isIllegal": false,
+    "multiplier": 2,
+    "itemLocation": 2
+  },
+  {
+    "name": "Flesje lijm",
+    "isIllegal": false,
+    "multiplier": 2,
+    "itemLocation": 2
+  },
+  {
+    "name": "Lip Gloss",
+    "isIllegal": false,
+    "multiplier": 2,
+    "itemLocation": 2
+  },
+  {
+    "name": "Sleutelhanger",
+    "isIllegal": false,
+    "multiplier": 2,
+    "itemLocation": 2
+  },
+  {
+    "name": "Vlindermes",
+    "isIllegal": true,
+    "multiplier": 1,
+    "itemLocation": 2
+  },
+  {
+    "name": "Meth Pijp",
+    "isIllegal": true,
+    "multiplier": 1,
+    "itemLocation": 2
+  },
+  {
+    "name": "Verbrande Lepel",
+    "isIllegal": true,
+    "multiplier": 1,
+    "itemLocation": 2
+  },
+  {
+    "name": "Zakje Methamfetamine",
+    "isIllegal": true,
+    "multiplier": 1,
+    "itemLocation": 2
+  },
+  {
+    "name": "Knuckledusters",
+    "isIllegal": true,
+    "multiplier": 1,
+    "itemLocation": 2
+  },
+  {
+    "name": "Flesje Percocet",
+    "isIllegal": true,
+    "multiplier": 1,
+    "itemLocation": 2
+  },
+  {
+    "name": "Flesje Morphine",
+    "isIllegal": true,
+    "multiplier": 1,
+    "itemLocation": 2
+  },
+  {
+    "name": "Crack Pijp",
+    "isIllegal": true,
+    "multiplier": 1,
+    "itemLocation": 2
+  },
+  {
+    "name": "Meerdere LSD tabletten",
+    "isIllegal": true,
+    "multiplier": 1,
+    "itemLocation": 2
+  },
+  {
+    "name": "Zakje Paddo's",
+    "isIllegal": true,
+    "multiplier": 1,
+    "itemLocation": 2
+  },
+  {
+    "name": "Zakje Cocaïne",
+    "isIllegal": true,
+    "multiplier": 1,
+    "itemLocation": 2
+  },
+  {
+    "name": "Zakje Xanax Pillen",
+    "isIllegal": true,
+    "multiplier": 1,
+    "itemLocation": 2
+  },
+  {
+    "name": "Zakje Vicodin Pillen",
+    "isIllegal": true,
+    "multiplier": 1,
+    "itemLocation": 2
+  },
+  {
+    "name": "Zakje met MDMA kristallen",
+    "isIllegal": true,
+    "multiplier": 1,
+    "itemLocation": 2
+  },
+  {
+    "name": "Zakje Ectasy Pillen",
+    "isIllegal": true,
+    "multiplier": 1,
+    "itemLocation": 2
+  },
+  {
+    "name": "Hersluitbaar zakje met bruin poeder",
+    "isIllegal": true,
+    "multiplier": 1,
+    "itemLocation": 2
+  },
+  {
+    "name": "Klein zakje met ketamine poeder",
+    "isIllegal": true,
+    "multiplier": 1,
+    "itemLocation": 2
+  },
+  {
+    "name": "Hersluitbaar zakje meth wit poeder",
+    "isIllegal": true,
+    "multiplier": 1,
+    "itemLocation": 2
+  },
+  {
+    "name": "Hash Pijp Met Hash Restjes",
+    "isIllegal": true,
+    "multiplier": 1,
+    "itemLocation": 2
+  },
+  {
+    "name": "Zakje met heroïne en naalden",
+    "isIllegal": true,
+    "multiplier": 1,
+    "itemLocation": 2
+  },
+  {
+    "name": "Digitale weegschaal met restjes wit poeder",
+    "isIllegal": true,
+    "multiplier": 1,
+    "itemLocation": 2
+  },
+  {
+    "name": "Veel hersluitbare zakjes",
+    "isIllegal": true,
+    "multiplier": 1,
+    "itemLocation": 2
+  },
+  {
+    "name": "Gebruikte naalden",
+    "isIllegal": true,
+    "multiplier": 1,
+    "itemLocation": 2
+  },
+  {
+    "name": "Gebruikte naalden met wit poeder aan de binnenkant",
+    "isIllegal": true,
+    "multiplier": 1,
+    "itemLocation": 2
+  },
+  {
+    "name": "Gebruikte naalden met bruin poeder aan de binnenkant",
+    "isIllegal": true,
+    "multiplier": 1,
+    "itemLocation": 2
+  },
+  {
+    "name": "Gevouwen briefje met wit poeder aan de binnenkant",
+    "isIllegal": true,
+    "multiplier": 1,
+    "itemLocation": 2
+  },
+  {
+    "name": "Gevouwen briefje met bruin poeder aan de binnenkant",
+    "isIllegal": true,
+    "multiplier": 1,
+    "itemLocation": 2
+  },
+  {
+    "name": "2 kleine zakjes Cocaïne",
+    "isIllegal": true,
+    "multiplier": 1,
+    "itemLocation": 2
+  },
+  {
+    "name": "Capsules met kristallen",
+    "isIllegal": true,
+    "multiplier": 1,
+    "itemLocation": 2
+  },
+  {
+    "name": "3 kleine zakjes MDMA kristallen",
+    "isIllegal": true,
+    "multiplier": 1,
+    "itemLocation": 2
+  },
+  {
+    "name": "Illegale voorgeschreven pillen",
+    "isIllegal": true,
+    "multiplier": 1,
+    "itemLocation": 2
+  },
+  {
+    "name": "Vuurwapen met afgeschraapt serienummer",
+    "isIllegal": true,
+    "multiplier": 1,
+    "itemLocation": 2
+  },
+  {
+    "name": "Handvuurwapen",
+    "isIllegal": true,
+    "multiplier": 1,
+    "itemLocation": 2
+  },
+  {
+    "name": "Marihuana Verstuiver",
+    "isIllegal": true,
+    "multiplier": 1,
+    "itemLocation": 2
+  },
+  {
+    "name": "Nagemaakte ID's",
+    "isIllegal": true,
+    "multiplier": 1,
+    "itemLocation": 2
+  },
+  {
+    "name": "Meerdere Creditcards",
+    "isIllegal": true,
+    "multiplier": 1,
+    "itemLocation": 2
+  },
+  {
+    "name": "Zak met meerdere (gestolen) telefoons",
+    "isIllegal": true,
+    "multiplier": 1,
+    "itemLocation": 2
+  },
+  {
+    "name": "Gestolen Rijbewijzen",
+    "isIllegal": true,
+    "multiplier": 1,
+    "itemLocation": 2
+  },
+  {
+    "name": "Gestolen paspoortten",
+    "isIllegal": true,
+    "multiplier": 1,
+    "itemLocation": 2
+  },
+  {
+    "name": "Nagemaakt rijbewijs",
+    "isIllegal": true,
+    "multiplier": 1,
+    "itemLocation": 2
+  },
+  {
+    "name": "Nagemaakte ID",
+    "isIllegal": true,
+    "multiplier": 1,
+    "itemLocation": 2
+  },
+  {
+    "name": "Automatisch vuurwapen",
+    "isIllegal": true,
+    "multiplier": 1,
+    "itemLocation": 2
+  },
+  {
+    "name": "Molotov Cocktail",
+    "isIllegal": true,
+    "multiplier": 1,
+    "itemLocation": 2
+  },
+  {
+    "name": "Traangas",
+    "isIllegal": true,
+    "multiplier": 1,
+    "itemLocation": 2
+  },
+  {
+    "name": "Politie vuurwapen (Walter P99)",
+    "isIllegal": true,
+    "multiplier": 1,
+    "itemLocation": 2
+  },
+  {
+    "name": "Taser",
+    "isIllegal": true,
+    "multiplier": 1,
+    "itemLocation": 2
+  },
+  {
+    "name": "Groot mes",
+    "isIllegal": true,
+    "multiplier": 1,
+    "itemLocation": 2
+  },
+  {
+    "name": "Machete",
+    "isIllegal": true,
+    "multiplier": 1,
+    "itemLocation": 2
+  },
+  {
+    "name": "Verbogen vlindermes",
+    "isIllegal": true,
+    "multiplier": 1,
+    "itemLocation": 2
+  },
+  {
+    "name": "Gebruikte naalden",
+    "isIllegal": true,
+    "multiplier": 1,
+    "itemLocation": 2
+  },
+  {
+    "name": "Vuurwapen demper",
+    "isIllegal": true,
+    "multiplier": 1,
+    "itemLocation": 2
+  },
+  {
+    "name": "Draadsnijders",
+    "isIllegal": true,
+    "multiplier": 1,
+    "itemLocation": 2
+  },
+  {
+    "name": "Pepperspray",
+    "isIllegal": true,
+    "multiplier": 1,
+    "itemLocation": 2
+  },
+  {
+    "name": "Roestige Lepel",
+    "isIllegal": true,
+    "multiplier": 1,
+    "itemLocation": 2
+  },
+  {
+    "name": "Inbrekers gereedschapa",
+    "isIllegal": true,
+    "multiplier": 1,
+    "itemLocation": 2
+  },
+  {
+    "name": "Glas-snij gereedschapa",
+    "isIllegal": true,
+    "multiplier": 1,
+    "itemLocation": 2
+  },
+  {
+    "name": "Veel opgerolde geldbriefjes",
+    "isIllegal": true,
+    "multiplier": 1,
+    "itemLocation": 2
+  },
+  {
+    "name": "Schroevendraaier",
+    "isIllegal": true,
+    "multiplier": 1,
+    "itemLocation": 2
+  },
+  {
+    "name": "Meer dan €1000 in briefjes van €50",
+    "isIllegal": true,
+    "multiplier": 1,
+    "itemLocation": 2
+  },
+  {
+    "name": "Kleine joint",
+    "isIllegal": true,
+    "multiplier": 1,
+    "itemLocation": 2
+  },
+  {
+    "name": "Naaktfoto's van minderjarigen",
+    "isIllegal": true,
+    "multiplier": 1,
+    "itemLocation": 2
+  },
+  {
+    "name": "Meerdere pakjes wapen munitie",
+    "isIllegal": true,
+    "multiplier": 1,
+    "itemLocation": 2
+  },
+  {
+    "name": "Ongemarkeerd flesje met pillen",
+    "isIllegal": true,
+    "multiplier": 1,
+    "itemLocation": 2
+  },
+  {
+    "name": "Mes met bloedresten",
+    "isIllegal": true,
+    "multiplier": 1,
+    "itemLocation": 2
+  },
+  {
+    "name": "Stuk kleding met bloedresten",
+    "isIllegal": true,
+    "multiplier": 1,
+    "itemLocation": 2
+  },
+  {
+    "name": "Flesje Chloroform",
+    "isIllegal": true,
+    "multiplier": 1,
+    "itemLocation": 2
+  },
+  {
+    "name": "Vuurwapen met demper",
+    "isIllegal": true,
+    "multiplier": 1,
+    "itemLocation": 2
+  },
+  {
+    "name": "Rookbom",
+    "isIllegal": true,
+    "multiplier": 1,
+    "itemLocation": 2
+  },
+  {
+    "name": "Zelfgemaakt explosief",
+    "isIllegal": true,
+    "multiplier": 1,
+    "itemLocation": 2
+  },
+  {
+    "name": "Granaat",
+    "isIllegal": true,
+    "multiplier": 1,
+    "itemLocation": 2
+  },
+  {
+    "name": "Onderdelen van een jachtgeweer",
+    "isIllegal": true,
+    "multiplier": 1,
+    "itemLocation": 2
+  },
+  {
+    "name": "Handboeien",
+    "isIllegal": true,
+    "multiplier": 1,
+    "itemLocation": 2
+  },
+  {
+    "name": "Zakmes",
+    "isIllegal": true,
+    "multiplier": 1,
+    "itemLocation": 2
+  },
+  {
+    "name": "Kentekenbewijs van een andere auto",
+    "isIllegal": true,
+    "multiplier": 1,
+    "itemLocation": 2
+  },
+  {
+    "name": "Tas met Golf Clubs",
+    "isIllegal": false,
+    "multiplier": 2,
+    "itemLocation": 0
+  },
+  {
+    "name": "Gestoomde kleren",
+    "isIllegal": false,
+    "multiplier": 2,
+    "itemLocation": 0
+  },
+  {
+    "name": "Strandhandoek",
+    "isIllegal": false,
+    "multiplier": 2,
+    "itemLocation": 0
+  },
+  {
+    "name": "Voetbal",
+    "isIllegal": false,
+    "multiplier": 2,
+    "itemLocation": 0
+  },
+  {
+    "name": "Jerry Can",
+    "isIllegal": false,
+    "multiplier": 2,
+    "itemLocation": 0
+  },
+  {
+    "name": "Tas met boodschappen",
+    "isIllegal": false,
+    "multiplier": 2,
+    "itemLocation": 0
+  },
+  {
+    "name": "Bowling Bal",
+    "isIllegal": false,
+    "multiplier": 2,
+    "itemLocation": 0
+  },
+  {
+    "name": "Tennis Racket",
+    "isIllegal": false,
+    "multiplier": 2,
+    "itemLocation": 0
+  },
+  {
+    "name": "Viool",
+    "isIllegal": false,
+    "multiplier": 2,
+    "itemLocation": 0
+  },
+  {
+    "name": "Basketbal",
+    "isIllegal": false,
+    "multiplier": 2,
+    "itemLocation": 0
+  },
+  {
+    "name": "Rugby bal",
+    "isIllegal": false,
+    "multiplier": 2,
+    "itemLocation": 0
+  },
+  {
+    "name": "Urn met Ashes",
+    "isIllegal": false,
+    "multiplier": 2,
+    "itemLocation": 0
+  },
+  {
+    "name": "Renschoenen",
+    "isIllegal": false,
+    "multiplier": 2,
+    "itemLocation": 0
+  },
+  {
+    "name": "Sandalen",
+    "isIllegal": false,
+    "multiplier": 2,
+    "itemLocation": 0
+  },
+  {
+    "name": "Schep",
+    "isIllegal": false,
+    "multiplier": 2,
+    "itemLocation": 0
+  },
+  {
+    "name": "Gesloten koffer",
+    "isIllegal": false,
+    "multiplier": 2,
+    "itemLocation": 0
+  },
+  {
+    "name": "Hoopje met vieze kleren",
+    "isIllegal": false,
+    "multiplier": 2,
+    "itemLocation": 0
+  },
+  {
+    "name": "Helk",
+    "isIllegal": false,
+    "multiplier": 2,
+    "itemLocation": 0
+  },
+  {
+    "name": "Zak sinaasappels",
+    "isIllegal": false,
+    "multiplier": 2,
+    "itemLocation": 0
+  },
+  {
+    "name": "Zak appels",
+    "isIllegal": false,
+    "multiplier": 2,
+    "itemLocation": 0
+  },
+  {
+    "name": "Zak bananen",
+    "isIllegal": false,
+    "multiplier": 2,
+    "itemLocation": 0
+  },
+  {
+    "name": "Zak peren",
+    "isIllegal": false,
+    "multiplier": 2,
+    "itemLocation": 0
+  },
+  {
+    "name": "Tosti apparaat",
+    "isIllegal": false,
+    "multiplier": 2,
+    "itemLocation": 0
+  },
+  {
+    "name": "Startkabels",
+    "isIllegal": false,
+    "multiplier": 2,
+    "itemLocation": 0
+  },
+  {
+    "name": "Cowboy Hoed",
+    "isIllegal": false,
+    "multiplier": 2,
+    "itemLocation": 0
+  },
+  {
+    "name": "Wat touwen",
+    "isIllegal": false,
+    "multiplier": 2,
+    "itemLocation": 0
+  },
+  {
+    "name": "Paraplu",
+    "isIllegal": false,
+    "multiplier": 2,
+    "itemLocation": 0
+  },
+  {
+    "name": "Sixpack bier",
+    "isIllegal": false,
+    "multiplier": 2,
+    "itemLocation": 0
+  },
+  {
+    "name": "Laptop",
+    "isIllegal": false,
+    "multiplier": 2,
+    "itemLocation": 0
+  },
+  {
+    "name": "Kapotte Laptop",
+    "isIllegal": false,
+    "multiplier": 2,
+    "itemLocation": 0
+  },
+  {
+    "name": "Reservewiel",
+    "isIllegal": false,
+    "multiplier": 2,
+    "itemLocation": 0
+  },
+  {
+    "name": "Moersleutel",
+    "isIllegal": false,
+    "multiplier": 2,
+    "itemLocation": 0
+  },
+  {
+    "name": "Boor",
+    "isIllegal": false,
+    "multiplier": 2,
+    "itemLocation": 0
+  },
+  {
+    "name": "Skateboard",
+    "isIllegal": false,
+    "multiplier": 2,
+    "itemLocation": 0
+  },
+  {
+    "name": "Mini Koelkast",
+    "isIllegal": false,
+    "multiplier": 2,
+    "itemLocation": 0
+  },
+  {
+    "name": "Vieze sokken",
+    "isIllegal": false,
+    "multiplier": 2,
+    "itemLocation": 0
+  },
+  {
+    "name": "Flat Screen Tv",
+    "isIllegal": false,
+    "multiplier": 2,
+    "itemLocation": 0
+  },
+  {
+    "name": "Vishaak",
+    "isIllegal": false,
+    "multiplier": 2,
+    "itemLocation": 0
+  },
+  {
+    "name": "Visuitrusting",
+    "isIllegal": false,
+    "multiplier": 2,
+    "itemLocation": 0
+  },
+  {
+    "name": "Bluetooth Speaker",
+    "isIllegal": false,
+    "multiplier": 2,
+    "itemLocation": 0
+  },
+  {
+    "name": "Vuilniszak",
+    "isIllegal": false,
+    "multiplier": 2,
+    "itemLocation": 0
+  },
+  {
+    "name": "Magnetron",
+    "isIllegal": false,
+    "multiplier": 2,
+    "itemLocation": 0
+  },
+  {
+    "name": "Vieze luiers",
+    "isIllegal": false,
+    "multiplier": 2,
+    "itemLocation": 0
+  },
+  {
+    "name": "Stofzuiger",
+    "isIllegal": false,
+    "multiplier": 2,
+    "itemLocation": 0
+  },
+  {
+    "name": "Blikken met bonen",
+    "isIllegal": false,
+    "multiplier": 2,
+    "itemLocation": 0
+  },
+  {
+    "name": "Boeken",
+    "isIllegal": false,
+    "multiplier": 2,
+    "itemLocation": 0
+  },
+  {
+    "name": "Kussen",
+    "isIllegal": false,
+    "multiplier": 2,
+    "itemLocation": 0
+  },
+  {
+    "name": "Dash Cam",
+    "isIllegal": false,
+    "multiplier": 2,
+    "itemLocation": 0
+  },
+  {
+    "name": "Kampeerspullen",
+    "isIllegal": false,
+    "multiplier": 2,
+    "itemLocation": 0
+  },
+  {
+    "name": "Doos met flessen wijn",
+    "isIllegal": false,
+    "multiplier": 2,
+    "itemLocation": 0
+  },
+  {
+    "name": "Honkbalknuppel",
+    "isIllegal": true,
+    "multiplier": 1,
+    "itemLocation": 0
+  },
+  {
+    "name": "Stop bord",
+    "isIllegal": true,
+    "multiplier": 1,
+    "itemLocation": 0
+  },
+  {
+    "name": "Kettingzaag",
+    "isIllegal": true,
+    "multiplier": 1,
+    "itemLocation": 0
+  },
+  {
+    "name": "Grote bloedvlek",
+    "isIllegal": true,
+    "multiplier": 1,
+    "itemLocation": 0
+  },
+  {
+    "name": "Bloedvlek",
+    "isIllegal": true,
+    "multiplier": 1,
+    "itemLocation": 0
+  },
+  {
+    "name": "Grote tas met geld",
+    "isIllegal": true,
+    "multiplier": 1,
+    "itemLocation": 0
+  },
+  {
+    "name": "Zak met kunstmest",
+    "isIllegal": true,
+    "multiplier": 1,
+    "itemLocation": 0
+  },
+  {
+    "name": "Meerdere flessen graffiti",
+    "isIllegal": false,
+    "multiplier": 2,
+    "itemLocation": 0
+  },
+  {
+    "name": "Koevoet",
+    "isIllegal": true,
+    "multiplier": 1,
+    "itemLocation": 0
+  },
+  {
+    "name": "Koffer vol met briefjes van €100",
+    "isIllegal": true,
+    "multiplier": 1,
+    "itemLocation": 0
+  },
+  {
+    "name": "Meerdere Ifruit Telefoons",
+    "isIllegal": true,
+    "multiplier": 1,
+    "itemLocation": 0
+  },
+  {
+    "name": "Stapel gemarkeerde briefjes geld",
+    "isIllegal": true,
+    "multiplier": 1,
+    "itemLocation": 0
+  },
+  {
+    "name": "Scherpschuttersgeweer",
+    "isIllegal": true,
+    "multiplier": 1,
+    "itemLocation": 0
+  },
+  {
+    "name": "Automatisch wapen",
+    "isIllegal": true,
+    "multiplier": 1,
+    "itemLocation": 0
+  },
+  {
+    "name": "Shotgun",
+    "isIllegal": true,
+    "multiplier": 1,
+    "itemLocation": 0
+  },
+  {
+    "name": "Verbogen ruimte met zakjes cocaïne",
+    "isIllegal": true,
+    "multiplier": 1,
+    "itemLocation": 0
+  },
+  {
+    "name": "Verbogen ruimte met zakjes Heroïne",
+    "isIllegal": true,
+    "multiplier": 1,
+    "itemLocation": 0
+  },
+  {
+    "name": "Zak vol met Ritalin",
+    "isIllegal": true,
+    "multiplier": 1,
+    "itemLocation": 0
+  },
+  {
+    "name": "Meerdere sticks dynamiet",
+    "isIllegal": true,
+    "multiplier": 1,
+    "itemLocation": 0
+  },
+  {
+    "name": "Koffer vol met Methamfetamine",
+    "isIllegal": true,
+    "multiplier": 1,
+    "itemLocation": 0
+  },
+  {
+    "name": "Meerdere handgranaten",
+    "isIllegal": true,
+    "multiplier": 1,
+    "itemLocation": 0
+  },
+  {
+    "name": "Grote Bong",
+    "isIllegal": true,
+    "multiplier": 1,
+    "itemLocation": 0
+  },
+  {
+    "name": "Witte vlek",
+    "isIllegal": false,
+    "multiplier": 1,
+    "itemLocation": 0
+  },
+  {
+    "name": "Machete met bloedvlekken",
+    "isIllegal": true,
+    "multiplier": 1,
+    "itemLocation": 0
+  },
+  {
+    "name": "Molotov Cocktails",
+    "isIllegal": true,
+    "multiplier": 1,
+    "itemLocation": 0
+  },
+  {
+    "name": "Krat vol met munitie",
+    "isIllegal": true,
+    "multiplier": 1,
+    "itemLocation": 0
+  },
+  {
+    "name": "Auto accu",
+    "isIllegal": false,
+    "multiplier": 2,
+    "itemLocation": 0
+  },
+  {
+    "name": "Gasmasker",
+    "isIllegal": true,
+    "multiplier": 1,
+    "itemLocation": 0
+  },
+  {
+    "name": "Tas met juwelen",
+    "isIllegal": true,
+    "multiplier": 1,
+    "itemLocation": 0
+  },
+  {
+    "name": "Vuilniszakken",
+    "isIllegal": false,
+    "multiplier": 2,
+    "itemLocation": 0
+  },
+  {
+    "name": "Jaaggereedschap",
+    "isIllegal": false,
+    "multiplier": 2,
+    "itemLocation": 0
+  },
+  {
+    "name": "Meerdere kentekens",
+    "isIllegal": true,
+    "multiplier": 1,
+    "itemLocation": 0
+  },
+  {
+    "name": "Onderdelen voor een raketwerper",
+    "isIllegal": true,
+    "multiplier": 1,
+    "itemLocation": 0
+  },
+  {
+    "name": "Bomvest",
+    "isIllegal": true,
+    "multiplier": 1,
+    "itemLocation": 0
+  },
+  {
+    "name": "Zwaard",
+    "isIllegal": true,
+    "multiplier": 1,
+    "itemLocation": 0
+  },
+  {
+    "name": "Verdacht gesloten doosje",
+    "isIllegal": true,
+    "multiplier": 1,
+    "itemLocation": 0
+  },
+  {
+    "name": "Lege verborgen ruimte",
+    "isIllegal": true,
+    "multiplier": 1,
+    "itemLocation": 0
+  },
+  {
+    "name": "Zak met ongebruikte naalden",
+    "isIllegal": true,
+    "multiplier": 1,
+    "itemLocation": 0
+  }
+]
