@@ -34,13 +34,13 @@
 			"isAvailableForEveryone": true
 		}
 	],
-	"ambulance": ["ambulance"],
-	"airAmbulance": ["polmav"],
-	"firedept": ["firetruk"],
+	"ambulance": ["ambu1"],
+	"airAmbulance": ["alifeliner"],
+	"firedept": ["brandweeratego"],
 	"coroner": ["speedo", "utillitruck3"],
 	"towtruck": ["flatbed"],
 	"mechanic": ["utillitruck3"],
-	"prisontransport": ["police"],
+	"prisontransport": ["polbus2"],
 	"animalControl": ["bison"],
 	"taxi": ["taxi"]
 }
